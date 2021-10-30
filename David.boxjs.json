@@ -2,7 +2,7 @@
     "id": "David.app.sub",
     "name": "David脚本订阅",
     "author": "@David",
-    "icon": "https://bitbucket.org/china909/scripts/raw/c2c0c82217074f0b8fd5cf399ba5c4fd5b338977/dog.jpeg",
+    "icon": "https://github.com/bluesmallpig/scripts/blob/main/dog.jpeg?raw=true",
     "apps": [
 	        {
             "id":"fqctapp",
@@ -22,8 +22,8 @@
             "author":"@David",
             "repo":"https://bitbucket.org.com/",
             "icons":[
-                "https://bitbucket.org/china909/scripts/raw/a7680307a282385f987cfe5c66da01f5f65e672a/img/fqct-mini.png",
-                "https://bitbucket.org/china909/scripts/raw/a7680307a282385f987cfe5c66da01f5f65e672a/img/fqct.png"
+                "https://github.com/bluesmallpig/scripts/blob/main/img/fqct-mini.png?raw=true",
+                "https://github.com/bluesmallpig/scripts/blob/main/img/fqct.png?raw=true"
             ],
             "script":"https://bitbucket.org.com/"
         },
@@ -43,8 +43,8 @@
             "author":"@David",
             "repo":"https://bitbucket.org.com/",
             "icons":[
-                "https://bitbucket.org/china909/scripts/raw/86346300b70794b0762859e2eea6e64b6d3ac51c/img/shuqi-mini.png",
-                "https://bitbucket.org/china909/scripts/raw/86346300b70794b0762859e2eea6e64b6d3ac51c/img/shuqi.png"
+                "https://github.com/bluesmallpig/scripts/blob/main/img/shuqi-mini.png?raw=true",
+                "https://github.com/bluesmallpig/scripts/blob/main/img/shuqi.png?raw=true"
             ],
             "script":"https://bitbucket.org.com/"
         },
@@ -64,8 +64,8 @@
             "author":"@David",
             "repo":"https://bitbucket.org.com/",
             "icons":[
-                "https://bitbucket.org/china909/scripts/raw/86346300b70794b0762859e2eea6e64b6d3ac51c/img/dyjsb-mini.png",
-                "https://bitbucket.org/china909/scripts/raw/86346300b70794b0762859e2eea6e64b6d3ac51c/img/dyjsb.png"
+                "https://github.com/bluesmallpig/scripts/blob/main/img/dyjsb-mini.png?raw=true",
+                "https://github.com/bluesmallpig/scripts/blob/main/img/dyjsb.png?raw=true"
             ],
             "script":"https://bitbucket.org.com"
         }
