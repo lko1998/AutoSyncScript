@@ -68,6 +68,27 @@
                 "https://github.com/bluesmallpig/scripts/blob/main/img/dyjsb.png?raw=true"
             ],
             "script":"https://bitbucket.org.com"
-        }
+        },
+	    {
+            "id":"qhbdspapp",
+            "name":"趣红包短视频",
+            "keys":[
+                "qhbdspapp"	
+            ],
+            "settings": [{
+                "id": "qhbdspuserck",
+                "name": "当前账号",
+                "val": "1",
+                "type": "number",
+                "desc": "当前账号对应"
+            }],
+            "author":"@David",
+            "repo":"https://bitbucket.org.com/",
+            "icons":[
+                "https://github.com/bluesmallpig/scripts/blob/main/img/qhbapp-mini.png?raw=true",
+                "https://github.com/bluesmallpig/scripts/blob/main/img/qhbapp.png?raw=true"
+            ],
+            "script":"https://bitbucket.org.com/"
+        },
     ]
 }
