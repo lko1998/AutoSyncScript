@@ -1,5 +1,7 @@
-
 // 趣红包短视频脚本，请低调使用！！！
+// by David
+// 电报群：https://t.me/china20211029
+// boxjs地址：https://cdn.jsdelivr.net/gh/bluesmallpig/scripts/David.boxjs.json
 
 [MITM]
 hostname = api2.guaniuvideo.com
