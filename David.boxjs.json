@@ -20,12 +20,12 @@
                 "desc": "当前账号对应"
             }],
             "author":"@David",
-            "repo":"https://bitbucket.org.com/",
+            "repo":"https://github.com/bluesmallpig/scripts",
             "icons":[
                 "https://github.com/bluesmallpig/scripts/blob/main/img/fqct-mini.png?raw=true",
                 "https://github.com/bluesmallpig/scripts/blob/main/img/fqct.png?raw=true"
             ],
-            "script":"https://bitbucket.org.com/"
+            "script":"https://github.com/"
         },
 		{
             "id":"sqxsapp",
@@ -41,12 +41,12 @@
                 "desc": "当前账号对应"
             }],
             "author":"@David",
-            "repo":"https://bitbucket.org.com/",
+            "repo":"https://github.com/bluesmallpig/scripts",
             "icons":[
                 "https://github.com/bluesmallpig/scripts/blob/main/img/shuqi-mini.png?raw=true",
                 "https://github.com/bluesmallpig/scripts/blob/main/img/shuqi.png?raw=true"
             ],
-            "script":"https://bitbucket.org.com/"
+            "script":"https://github.com/"
         },
 	    {
             "id":"dyjsbapp",
@@ -62,12 +62,12 @@
                 "desc": "当前账号对应"
             }],
             "author":"@David",
-            "repo":"https://bitbucket.org.com/",
+            "repo":"https://github.com/bluesmallpig/scripts",
             "icons":[
                 "https://github.com/bluesmallpig/scripts/blob/main/img/dyjsb-mini.png?raw=true",
                 "https://github.com/bluesmallpig/scripts/blob/main/img/dyjsb.png?raw=true"
             ],
-            "script":"https://bitbucket.org.com"
+            "script":"https://github.com/"
         },
 	    {
             "id":"qhbdspapp",
@@ -83,12 +83,33 @@
                 "desc": "当前账号对应"
             }],
             "author":"@David",
-            "repo":"https://bitbucket.org.com/",
+            "repo":"https://github.com/bluesmallpig/scripts",
             "icons":[
                 "https://github.com/bluesmallpig/scripts/blob/main/img/qhbapp-mini.png?raw=true",
                 "https://github.com/bluesmallpig/scripts/blob/main/img/qhbapp.png?raw=true"
             ],
-            "script":"https://bitbucket.org.com/"
+            "script":"https://github.com/"
+        },
+	{
+            "id":"dawapp",
+            "name":"都爱玩",
+            "keys":[
+                "dawapp"	
+            ],
+            "settings": [{
+                "id": "dawuserck",
+                "name": "当前账号",
+                "val": "1",
+                "type": "number",
+                "desc": "当前账号对应"
+            }],
+            "author":"@David",
+            "repo":"https://github.com/bluesmallpig/scripts",
+            "icons":[
+                "https://github.com/bluesmallpig/scripts/blob/main/img/daw-mini.png?raw=true",
+                "https://github.com/bluesmallpig/scripts/blob/main/img/daw.png?raw=true"
+            ],
+            "script":"https://github.com/"
         }
     ]
 }
