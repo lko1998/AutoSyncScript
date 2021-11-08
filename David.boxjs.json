@@ -126,12 +126,12 @@
                 "desc": "当前账号对应"
             },
             {
-                "id": "lsinvitationstatus",
+                "id": "ls_invitation_status",
                 "name": "是否填写作者邀请码",
                 "val": "1",
                 "type": "number",
                 "desc": "0:不填 1:填写 默认填写"
-            },
+            }
             ],
             "author":"@David",
             "repo":"https://github.com/bluesmallpig/scripts",
