@@ -126,7 +126,7 @@
                 "desc": "当前账号对应"
             },
             {
-                "id": "ls_invitation_status",
+                "id": "lsinvitationstatus",
                 "name": "是否填写作者邀请码",
                 "val": "1",
                 "type": "number",
