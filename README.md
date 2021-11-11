@@ -7,4 +7,6 @@
 <br/>
 如果觉得帮到您了，请给予打赏！
 <br/>
+<div style="text-align:center">
 <img src="https://github.com/bluesmallpig/scripts/blob/main/img/zs.png?raw=true" width="200" height="200" alt=""/><br/>
+</div>
