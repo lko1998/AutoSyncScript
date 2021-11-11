@@ -12,7 +12,7 @@ boxjs: https://cdn.jsdelivr.net/gh/bluesmallpig/scripts/David.boxjs.json
 定时建议60分钟运行一次
 
 [rewrite_local]
-https://api.lyyyzmy.com//product.+ url script-request-header jtapp.js
+https://api.lyyyzmy.com//product.+ url script-request-header https://raw.githubusercontent.com/bluesmallpig/scripts/main/jt.js
 
 [MITM]
 hostname = api.lyyyzmy.com
