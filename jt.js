@@ -10,6 +10,7 @@ boxjs: https://cdn.jsdelivr.net/gh/bluesmallpig/scripts/David.boxjs.json
 注意事项:
 进入我的-运行产品获取CK
 定时建议60分钟运行一次
+软件证书原因，只能关闭QX，手动执行。
 
 [rewrite_local]
 https://api.lyyyzmy.com//product.+ url script-request-header https://raw.githubusercontent.com/bluesmallpig/scripts/main/jt.js
