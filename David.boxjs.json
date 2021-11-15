@@ -182,6 +182,27 @@
                 "https://github.com/bluesmallpig/scripts/blob/main/img/ydyy.png?raw=true"
             ],
             "script":"https://github.com/"
+        },
+	{
+            "id":"ydyyapp",
+            "name":"1毛图",
+            "keys":[
+                "tcapp"	
+            ],
+            "settings": [{
+                "id": "tcuserck",
+                "name": "当前账号",
+                "val": "1",
+                "type": "number",
+                "desc": "当前账号对应"
+            }],
+            "author":"@David",
+            "repo":"https://github.com/bluesmallpig/scripts",
+            "icons":[
+                "https://github.com/bluesmallpig/scripts/blob/main/img/tc-mini.png?raw=true",
+                "https://github.com/bluesmallpig/scripts/blob/main/img/tc.png?raw=true"
+            ],
+            "script":"https://github.com/"
         }
     ]
 }
