@@ -1,4 +1,7 @@
 // 移动电影院脚本，请低调使用 ！！！
+// TG群：https://t.me/china20211029  
+// TG群里不定期发放薅毛脚本
+// boxjs地址：https://cdn.jsdelivr.net/gh/bluesmallpig/scripts/David.boxjs.json
 
 [MITM]
 hostname = api.smartcinema.com.cn
