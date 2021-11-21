@@ -3,7 +3,7 @@
 
 
 
-name: QiXin-sync
+name: zwf234-sync
 on:
   schedule:
     - cron: '*/20 * * * *'
