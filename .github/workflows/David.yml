@@ -3,7 +3,7 @@
 
 
 
-name: david-sync
+name: David-sync
 on:
   schedule:
     - cron: '*/20 * * * *'
@@ -29,5 +29,5 @@ jobs:
         with:
           source_repo: "https://github.com/bluesmallpig/scripts.git"
           source_branch: "main"
-          destination_branch: "david"
+          destination_branch: "David"
           github_token: ${{ secrets.PAT }}
