@@ -1,0 +1,33 @@
+##  David 仓库自动定时同步代码 ，教程公众号文章地址  https://mp.weixin.qq.com/s/fcI4vQHD8TNajvTML9g3AA
+
+
+
+
+name: david-sync
+on:
+  schedule:
+    - cron: '*/20 * * * *'
+  workflow_dispatch:
+  watch:
+    types: started
+  repository_dispatch:
+    types: sync-bluesmallpig-scripts
+jobs:
+  repo-sync:
+    env:
+      PAT: ${{ secrets.PAT }} 
+    runs-on: ubuntu-latest
+    if: github.event.repository.owner.id == github.event.sender.id
+    steps:
+      - uses: actions/checkout@v2
+        with:
+          persist-credentials: false
+
+      - name: sync bluesmallpig-scripts
+        uses: repo-sync/github-sync@v2
+        if: env.PAT
+        with:
+          source_repo: "https://github.com/bluesmallpig/scripts.git"
+          source_branch: "main"
+          destination_branch: "david"
+          github_token: ${{ secrets.PAT }}
