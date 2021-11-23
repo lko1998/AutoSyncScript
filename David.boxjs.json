@@ -253,7 +253,7 @@
                 "dsjapp"	
             ],
             "settings": [{
-                "id": "dsjuserck",
+                "id": "dsj_user_ck",
                 "name": "当前账号",
                 "val": "1",
                 "type": "number",
