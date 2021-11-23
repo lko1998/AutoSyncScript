@@ -245,23 +245,6 @@
                 "https://github.com/bluesmallpig/scripts/blob/main/img/xmyd.png?raw=true"
             ],
             "script":"https://github.com/"
-        },
-	{
-            "id":"dsjapp",
-            "name":"电视家",
-            "keys":[
-                "dsjapp"	
-            ],
-            "settings": [{
-                "id": "dsj_user_ck",
-                "name": "当前账号",
-                "val": "1",
-                "type": "number",
-                "desc": "当前账号对应"
-            }],
-            "author":"@David",
-            "repo":"https://github.com/bluesmallpig/scripts",
-            "script":"https://github.com/"
         }
     ]
 }
