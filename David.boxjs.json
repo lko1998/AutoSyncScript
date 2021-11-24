@@ -245,6 +245,27 @@
                 "https://github.com/bluesmallpig/scripts/blob/main/img/xmyd.png?raw=true"
             ],
             "script":"https://github.com/"
+        },
+	{
+            "id":"hdapp",
+            "name":"鸿答",
+            "keys":[
+                "hdapp"	
+            ],
+            "settings": [{
+                "id": "hduserck",
+                "name": "当前账号",
+                "val": "1",
+                "type": "number",
+                "desc": "当前账号对应"
+            }],
+            "author":"@David",
+            "repo":"https://github.com/bluesmallpig/scripts",
+            "icons":[
+                "https://github.com/bluesmallpig/scripts/blob/main/img/hd-mini.png?raw=true",
+                "https://github.com/bluesmallpig/scripts/blob/main/img/hd.png?raw=true"
+            ],
+            "script":"https://github.com/"
         }
     ]
 }
