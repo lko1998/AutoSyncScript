@@ -287,6 +287,27 @@
                 "https://github.com/bluesmallpig/scripts/blob/main/img/cydxs.png?raw=true"
             ],
             "script":"https://github.com/"
+        },
+	{
+            "id":"dtwzgame",
+            "name":"答题王者",
+            "keys":[
+                "dtwzgame"	
+            ],
+            "settings": [{
+                "id": "dtwzuserck",
+                "name": "当前账号",
+                "val": "1",
+                "type": "number",
+                "desc": "当前账号对应"
+            }],
+            "author":"@David",
+            "repo":"https://github.com/bluesmallpig/scripts",
+            "icons":[
+                "https://github.com/bluesmallpig/scripts/blob/main/img/dtwz-mini.png?raw=true",
+                "https://github.com/bluesmallpig/scripts/blob/main/img/dtwz.png?raw=true"
+            ],
+            "script":"https://github.com/"
         }
     ]
 }
