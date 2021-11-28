@@ -39,7 +39,22 @@
                 "val": "1",
                 "type": "number",
                 "desc": "当前账号对应"
-            }],
+            },
+	    {
+                "id": "tguserid",
+                "name": "TG用户名",
+                "val": "1",
+                "type": "number",
+                "desc": "从机器人获得"
+            },
+            {
+                "id": "sqxsactivecode",
+                "name": "授权码",
+                "val": "",
+                "type": "text",
+                "desc": "从机器人获得"
+            }
+	    ],
             "author":"@David",
             "repo":"https://github.com/bluesmallpig/scripts",
             "icons":[
