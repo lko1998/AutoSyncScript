@@ -390,6 +390,42 @@
                 "https://github.com/bluesmallpig/scripts/blob/main/img/xbqb.png?raw=true"
             ],
             "script":"https://github.com/"
+        },
+	{
+            "id":"jjkdyapp",
+            "name":"进阶可达鸭",
+            "keys":[
+                "jjkdyapp"	
+            ],
+            "settings": [{
+                "id": "jjkdyuserck",
+                "name": "当前账号",
+                "val": "1",
+                "type": "number",
+                "desc": "当前账号对应"
+            },
+	    {
+                "id": "tguserid",
+                "name": "TG用户名",
+                "val": "1",
+                "type": "number",
+                "desc": "从机器人获得"
+            },
+            {
+                "id": "jjkdyactivecode",
+                "name": "授权码",
+                "val": "",
+                "type": "text",
+                "desc": "从机器人获得"
+            }
+	    ],
+            "author":"@David",
+            "repo":"https://github.com/bluesmallpig/scripts",
+            "icons":[
+                "https://github.com/bluesmallpig/scripts/blob/main/img/jjkdy-mini.png?raw=true",
+                "https://github.com/bluesmallpig/scripts/blob/main/img/jjkdy.png?raw=true"
+            ],
+            "script":"https://github.com/"
         }
     ]
 }
