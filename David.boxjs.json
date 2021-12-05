@@ -453,6 +453,13 @@
                 "val": "",
                 "type": "text",
                 "desc": "从机器人获得"
+            },
+            {
+                "id": "txamount",
+                "name": "提现金额",
+                "val": "[1,2]",
+                "type": "text",
+                "desc": "自己设定金额，放中括号里面，用英文的逗号隔开"
             }
 	    ],
             "author":"@David",
