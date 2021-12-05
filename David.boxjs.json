@@ -14,14 +14,14 @@
             ],
             "settings": [{
                 "id": "fqctstatus",
-                "name": "当前账号",
+                "name": "当前账号序号",
                 "val": "1",
                 "type": "number",
-                "desc": "当前账号对应"
+                "desc": "你要抓取第几个账号，就填几。"
             },
 	    {
                 "id": "tguserid",
-                "name": "TG用户名",
+                "name": "用户编号",
                 "val": "1",
                 "type": "number",
                 "desc": "从机器人获得"
@@ -50,14 +50,14 @@
             ],
             "settings": [{
                 "id": "sqxsuserck",
-                "name": "当前账号",
+                "name": "当前账号序号",
                 "val": "1",
                 "type": "number",
-                "desc": "当前账号对应"
+                "desc": "你要抓取第几个账号，就填几。"
             },
 	    {
                 "id": "tguserid",
-                "name": "TG用户名",
+                "name": "用户编号",
                 "val": "1",
                 "type": "number",
                 "desc": "从机器人获得"
@@ -86,14 +86,14 @@
             ],
             "settings": [{
                 "id": "dyjsbkey",
-                "name": "当前账号",
+                "name": "当前账号序号",
                 "val": "1",
                 "type": "number",
-                "desc": "当前账号对应"
+                "desc": "你要抓取第几个账号，就填几。"
             },
 	    {
                 "id": "tguserid",
-                "name": "TG用户名",
+                "name": "用户编号",
                 "val": "1",
                 "type": "number",
                 "desc": "从机器人获得"
@@ -122,10 +122,10 @@
             ],
             "settings": [{
                 "id": "qhbdspuserck",
-                "name": "当前账号",
+                "name": "当前账号序号",
                 "val": "1",
                 "type": "number",
-                "desc": "当前账号对应"
+                "desc": "你要抓取第几个账号，就填几。"
             }],
             "author":"@David",
             "repo":"https://github.com/bluesmallpig/scripts",
@@ -143,10 +143,10 @@
             ],
             "settings": [{
                 "id": "dawuserck",
-                "name": "当前账号",
+                "name": "当前账号序号",
                 "val": "1",
                 "type": "number",
-                "desc": "当前账号对应"
+                "desc": "你要抓取第几个账号，就填几。"
             }],
             "author":"@David",
             "repo":"https://github.com/bluesmallpig/scripts",
@@ -165,10 +165,10 @@
             "settings": [
             {
                 "id": "lsuserck",
-                "name": "当前账号",
+                "name": "当前账号序号",
                 "val": "1",
                 "type": "number",
-                "desc": "当前账号对应"
+                "desc": "你要抓取第几个账号，就填几。"
             },
             {
                 "id": "ls_invitation_status",
@@ -195,14 +195,14 @@
             "settings": [
 	    {
                 "id": "dzluserck",
-                "name": "当前账号",
+                "name": "当前账号序号",
                 "val": "1",
                 "type": "number",
-                "desc": "当前账号对应"
+                "desc": "你要抓取第几个账号，就填几。"
             },
 	    {
                 "id": "tguserid",
-                "name": "TG用户名",
+                "name": "用户编号",
                 "val": "1",
                 "type": "number",
                 "desc": "从机器人获得"
@@ -231,10 +231,10 @@
             ],
             "settings": [{
                 "id": "ydyyuserck",
-                "name": "当前账号",
+                "name": "当前账号序号",
                 "val": "1",
                 "type": "number",
-                "desc": "当前账号对应"
+                "desc": "你要抓取第几个账号，就填几。"
             }],
             "author":"@David",
             "repo":"https://github.com/bluesmallpig/scripts",
@@ -252,10 +252,10 @@
             ],
             "settings": [{
                 "id": "tcuserck",
-                "name": "当前账号",
+                "name": "当前账号序号",
                 "val": "1",
                 "type": "number",
-                "desc": "当前账号对应"
+                "desc": "你要抓取第几个账号，就填几。"
             }],
             "author":"@David",
             "repo":"https://github.com/bluesmallpig/scripts",
@@ -273,10 +273,10 @@
             ],
             "settings": [{
                 "id": "dszbuserck",
-                "name": "当前账号",
+                "name": "当前账号序号",
                 "val": "1",
                 "type": "number",
-                "desc": "当前账号对应"
+                "desc": "你要抓取第几个账号，就填几。"
             }],
             "author":"@David",
             "repo":"https://github.com/bluesmallpig/scripts",
@@ -294,10 +294,10 @@
             ],
             "settings": [{
                 "id": "xmyduserck",
-                "name": "当前账号",
+                "name": "当前账号序号",
                 "val": "1",
                 "type": "number",
-                "desc": "当前账号对应"
+                "desc": "你要抓取第几个账号，就填几。"
             }],
             "author":"@David",
             "repo":"https://github.com/bluesmallpig/scripts",
@@ -315,10 +315,10 @@
             ],
             "settings": [{
                 "id": "hduserck",
-                "name": "当前账号",
+                "name": "当前账号序号",
                 "val": "1",
                 "type": "number",
-                "desc": "当前账号对应"
+                "desc": "你要抓取第几个账号，就填几。"
             }],
             "author":"@David",
             "repo":"https://github.com/bluesmallpig/scripts",
@@ -336,10 +336,10 @@
             ],
             "settings": [{
                 "id": "cydxsuserck",
-                "name": "当前账号",
+                "name": "当前账号序号",
                 "val": "1",
                 "type": "number",
-                "desc": "当前账号对应"
+                "desc": "你要抓取第几个账号，就填几。"
             }],
             "author":"@David",
             "repo":"https://github.com/bluesmallpig/scripts",
@@ -357,10 +357,10 @@
             ],
             "settings": [{
                 "id": "dtwzuserck",
-                "name": "当前账号",
+                "name": "当前账号序号",
                 "val": "1",
                 "type": "number",
-                "desc": "当前账号对应"
+                "desc": "你要抓取第几个账号，就填几。"
             }],
             "author":"@David",
             "repo":"https://github.com/bluesmallpig/scripts",
@@ -378,10 +378,10 @@
             ],
             "settings": [{
                 "id": "xbqbuserck",
-                "name": "当前账号",
+                "name": "当前账号序号",
                 "val": "1",
                 "type": "number",
-                "desc": "当前账号对应"
+                "desc": "你要抓取第几个账号，就填几。"
             }],
             "author":"@David",
             "repo":"https://github.com/bluesmallpig/scripts",
@@ -399,14 +399,14 @@
             ],
             "settings": [{
                 "id": "jjkdyuserck",
-                "name": "当前账号",
+                "name": "当前账号序号",
                 "val": "1",
                 "type": "number",
-                "desc": "当前账号对应"
+                "desc": "你要抓取第几个账号，就填几。"
             },
 	    {
                 "id": "tguserid",
-                "name": "TG用户名",
+                "name": "用户编号",
                 "val": "1",
                 "type": "number",
                 "desc": "从机器人获得"
