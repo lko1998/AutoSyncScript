@@ -6,7 +6,7 @@ on:
   watch:
     types: started
   repository_dispatch:
-    types: sync-leafxcy-GithubSync
+    types: sync-leafxcy-JavaScript
 jobs:
   repo-sync:
     env:
@@ -18,11 +18,11 @@ jobs:
         with:
           persist-credentials: false
 
-      - name: sync leafxcy-GithubSync
+      - name: sync leafxcy-JavaScript
         uses: repo-sync/github-sync@v2
         if: env.PAT
         with:
-          source_repo: "https://github.com/leafxcy/GithubSync.git"
+          source_repo: "https://github.com/leafxcy/JavaScript.git"
           source_branch: "main"
           destination_branch: "leafxcy"
           github_token: ${{ secrets.PAT }}
