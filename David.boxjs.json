@@ -8,12 +8,10 @@
             "id":"fqctapp",
             "name":"番茄畅听",
             "keys":[
-                "fqcturl",
-                "fqct",
-                "host"
+                "fqctapp"
             ],
             "settings": [{
-                "id": "fqctstatus",
+                "id": "fqctuserck",
                 "name": "当前账号序号",
                 "val": "1",
                 "type": "number",
