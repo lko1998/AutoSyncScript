@@ -467,6 +467,55 @@
                 "https://github.com/bluesmallpig/scripts/blob/main/img/dsj.png?raw=true"
             ],
             "script":"https://github.com/"
+        },
+	{
+            "id":"kkzapp",
+            "name":"看看赚",
+            "keys":[
+                "zqkdkkz_body","jckdkkz_body"	
+            ],
+            "settings": [
+	    {
+                "id": "tguserid",
+                "name": "用户编号",
+                "val": "1",
+                "type": "number",
+                "desc": "从机器人获得"
+            },
+            {
+                "id": "zqkdactivecode",
+                "name": "中青授权码",
+                "val": "",
+                "type": "text",
+                "desc": "从机器人获得"
+            },
+            {
+                "id": "jckdactivecode",
+                "name": "晶彩授权码",
+                "val": "",
+                "type": "text",
+                "desc": "从机器人获得"
+            },{
+                "id": "zqkdkkz_body",
+                "name": "晶彩看看赚Body",
+                "val": "",
+                "type": "number",
+                "desc": "一个账号一个Body,多个账号&符号隔开"
+            },{
+                "id": "jckdkkz_body",
+                "name": "晶彩看看赚Body",
+                "val": "",
+                "type": "number",
+                "desc": "一个账号一个Body,多个账号&符号隔开"
+            }
+	    ],
+            "author":"@David",
+            "repo":"https://github.com/bluesmallpig/scripts",
+            "icons":[
+                "https://github.com/bluesmallpig/scripts/blob/main/img/zq_jc_mini.png?raw=true",
+                "https://github.com/bluesmallpig/scripts/blob/main/img/zq_jc.png?raw=true"
+            ],
+            "script":"https://github.com/"
         }
     ]
 }
