@@ -499,13 +499,13 @@
                 "id": "zqkdkkz_body",
                 "name": "中青看看赚Body",
                 "val": "",
-                "type": "number",
+                "type": "text",
                 "desc": "一个账号一个Body,多个账号&符号隔开"
             },{
                 "id": "jckdkkz_body",
                 "name": "晶彩看看赚Body",
                 "val": "",
-                "type": "number",
+                "type": "text",
                 "desc": "一个账号一个Body,多个账号&符号隔开"
             }
 	    ],
